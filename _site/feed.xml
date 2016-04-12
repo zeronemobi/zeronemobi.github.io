@@ -5,8 +5,8 @@
     <description>zero and one build the world.</description>
     <link>http://zerone.mobi/</link>
     <atom:link href="http://zerone.mobi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Apr 2016 20:07:13 +0800</pubDate>
-    <lastBuildDate>Tue, 12 Apr 2016 20:07:13 +0800</lastBuildDate>
+    <pubDate>Tue, 12 Apr 2016 20:13:12 +0800</pubDate>
+    <lastBuildDate>Tue, 12 Apr 2016 20:13:12 +0800</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -24,7 +24,7 @@
     &lt;p&gt;地图显示的第一步就是获取地图数据了，我们一般通过卫星和航拍获得原始的地图数据，如图，我们得到了一整张的世界地图。&lt;/p&gt;
 
     &lt;blockquote&gt;
-      &lt;p&gt;&lt;img src=&quot;http://img1.ph.126.net/FceWxtOGVNLdnU5nHHuh9w==/6598249542693895477.png&quot; alt=&quot;一张世界地图&quot; /&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;http://zerone.mobi/assets/6598249542693895477.png&quot; alt=&quot;一张世界地图&quot; /&gt;&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
@@ -36,7 +36,7 @@
 &lt;/ul&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;img src=&quot;http://img1.ph.126.net/0GZtf2AIW_VAi3mnJukkLg==/4912864243608184834.png&quot; alt=&quot;按照规则对地图进行切片&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;http://zerone.mobi/assets/4912864243608184834.png&quot; alt=&quot;按照规则对地图进行切片&quot; /&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;3) &lt;strong&gt;地图切片发布成地图服务&lt;/strong&gt;&lt;/p&gt;
@@ -62,7 +62,7 @@
   &lt;li&gt;大家可以看到，上面的地图服务打开后是以xml的形式提供的，所以，我们需要前端的框架来解析这种服务，展示地图。前端框架有很多，国内百度和高德都提供这种框架，开源世界也有OpenLayers这种免费好用的前端框架。我们打开百度地图的首页，通过浏览器看到的地图，就是通过百度的js框架解析地图服务所展示的。移动端的地图sdk也是一样的道理。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://img2.ph.126.net/eDA1q25X9TC_kuFWKMU4Ug==/1999035284699912954.jpg&quot; alt=&quot;高德地图&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://zerone.mobi/assets/1999035284699912954.png&quot; alt=&quot;高德地图&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;一整套的开源地图解决方案&lt;/strong&gt;
@@ -82,7 +82,7 @@ OpenLayers 是一个专为Web GIS 客户端开发提供的JavaScript 类库包�
 &lt;p&gt;1)  &lt;strong&gt;准备一张魔兽地图jpg的图片&lt;/strong&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;img src=&quot;http://img1.ph.126.net/DaeniWzDJHRMWO8tytJGJw==/6598193467600879909.jpg&quot; alt=&quot;一张魔兽地图的jpg格式文件&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;http://zerone.mobi/assets/6598193467600879909.png&quot; alt=&quot;一张魔兽地图的jpg格式文件&quot; /&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;2) &lt;strong&gt;魔兽地图jpg文件切成瓦片&lt;/strong&gt;&lt;/p&gt;
@@ -91,9 +91,9 @@ OpenLayers 是一个专为Web GIS 客户端开发提供的JavaScript 类库包�
   &lt;li&gt;通过地图切片工具对魔兽地图进行切片，我这里切了5-10级别。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://img1.ph.126.net/CYBHxYNkjEyydKghgCv9rw==/4857695148173225560.jpg&quot; alt=&quot;瓦片级别为5-10&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://zerone.mobi/assets/4857695148173225560.png&quot; alt=&quot;瓦片级别为5-10&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://img0.ph.126.net/bN_SK_L0K8w0ao1C4MY9TA==/1994250210095805666.jpg&quot; alt=&quot;10级别下瓦片文件&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://zerone.mobi/assets/1994250210095805666.png&quot; alt=&quot;10级别下瓦片文件&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;3) &lt;strong&gt;发布魔兽地图服务&lt;/strong&gt;&lt;/p&gt;
 
@@ -102,7 +102,7 @@ OpenLayers 是一个专为Web GIS 客户端开发提供的JavaScript 类库包�
 &lt;/ul&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;img src=&quot;http://img0.ph.126.net/f_gcGVL6Y5pc3fYaH-JxOA==/6598168178833445922.jpg&quot; alt=&quot;Geoserver地图服务列表下的魔兽地图服务&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;http://zerone.mobi/assets/6598168178833445922.png&quot; alt=&quot;Geoserver地图服务列表下的魔兽地图服务&quot; /&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;4) &lt;strong&gt;百度api解析瓦片并展示到浏览器&lt;/strong&gt;&lt;/p&gt;
@@ -112,13 +112,13 @@ OpenLayers 是一个专为Web GIS 客户端开发提供的JavaScript 类库包�
 &lt;/ul&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;img src=&quot;http://img1.ph.126.net/2EVLPLJPTHO5CUucINYhjg==/4816318326596428672.jpg&quot; alt=&quot;tileLayerlei类的getTileUrl方法加载魔兽地图瓦片&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;http://zerone.mobi/assets/4816318326596428672.png&quot; alt=&quot;tileLayerlei类的getTileUrl方法加载魔兽地图瓦片&quot; /&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h4 id=&quot;section-1&quot;&gt;最终效果&lt;/h4&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;img src=&quot;http://img1.ph.126.net/liTfdcwgl292uiwnScd8vw==/6598184671507861276.jpg&quot; alt=&quot;浏览器打开html文件，展示出了魔兽地图&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;http://zerone.mobi/assets/6598184671507861276.png&quot; alt=&quot;浏览器打开html文件，展示出了魔兽地图&quot; /&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 id=&quot;jingoal&quot;&gt;三、Jingoal海外地图，定位，逆地理解析的实现&lt;/h2&gt;
@@ -139,9 +139,9 @@ GoogleMap：
 在高德sdk下调用其他地图服务的关键方法如下图，怎么样，是不是和叠加魔兽地图差不多？其实原理都是一样的，Constants.Google_URL就是地图服务的地址。&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://img1.ph.126.net/lYOYuB1bRXRDUc5H_zEkHw==/6631201906123523422.jpg&quot; alt=&quot;TileOverLay类的getTileUrl方法加载谷歌地图服务&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://zerone.mobi/assets/6631201906123523422.png&quot; alt=&quot;TileOverLay类的getTileUrl方法加载谷歌地图服务&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://img2.ph.126.net/_CTRI8X8vTdDWjF_UnPywQ==/4858258098126730412.jpg&quot; alt=&quot;高德地图sdk显示谷歌地图&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://zerone.mobi/assets/4858258098126730412.png&quot; alt=&quot;高德地图sdk显示谷歌地图&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;section-2&quot;&gt;&lt;strong&gt;2.定位&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;#### &lt;em&gt;定位遇到的困难&lt;/em&gt;
@@ -158,7 +158,7 @@ https://github.com/wandergis/coordtransform
 #### &lt;em&gt;解决方案&lt;/em&gt;
 1. 关于判断坐标点是否在国内，github上有相关类库，通过下图方法判断，但是可以看到，边界区域会非常不准。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://img2.ph.126.net/i-F0oAkPqHdIufTIRsfdIw==/6598295722182268889.png&quot; alt=&quot;通用解决方案，将中国切割成若干不规则矩形&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://zerone.mobi/assets/6598295722182268889.png&quot; alt=&quot;通用解决方案，将中国切割成若干不规则矩形&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;海外位置的逆地理解析，基本上是找国外提供的逆地理解析服务来实现的，如下是找到的比较稳定可靠的解决方案
@@ -179,8 +179,7 @@ https://github.com/wandergis/coordtransform
 基于以上，今目标android端国外地图相关业务基本完成。
 下图是公司同事在美国出差帮忙测试的考勤应用，地图展示、定位和逆地理解析都比较准确。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://img2.ph.126.net/DR20sk9KzT9RSj1ksjbZTQ==/6631301961681647123.jpg&quot; alt=&quot;今目标西雅图分中心&quot; /&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;img src=&quot;http://zerone.mobi/assets/6631301961681647123.png&quot; alt=&quot;今目标西雅图分中心&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Jan 2016 00:00:00 +0800</pubDate>
         <link>http://zerone.mobi/androidmap/</link>
