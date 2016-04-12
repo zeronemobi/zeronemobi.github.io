@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>今目标移动团队技术博客</title>
-    <description></description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Apr 2016 19:25:50 +0800</pubDate>
-    <lastBuildDate>Tue, 12 Apr 2016 19:25:50 +0800</lastBuildDate>
+    <description>zero and one build the world.</description>
+    <link>http://zerone.mobi/</link>
+    <atom:link href="http://zerone.mobi/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 12 Apr 2016 19:36:15 +0800</pubDate>
+    <lastBuildDate>Tue, 12 Apr 2016 19:36:15 +0800</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -27,7 +27,7 @@
     &lt;p&gt;地图显示的第一步就是获取地图数据了，我们一般通过卫星和航拍获得原始的地图数据，如图，我们得到了一整张的世界地图。&lt;/p&gt;
 
     &lt;blockquote&gt;
-      &lt;p&gt;&lt;img src=&quot;http://img1.ph.126.net/FceWxtOGVNLdnU5nHHuh9w==/6598249542693895477.png&quot; alt=&quot;一张世界地图&quot; /&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;http://zerone.mobi/assets/6598249542693895477.png&quot; alt=&quot;一张世界地图&quot; /&gt;&lt;/p&gt;
     &lt;/blockquote&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
@@ -186,8 +186,8 @@ https://github.com/wandergis/coordtransform
 
 </description>
         <pubDate>Fri, 22 Jan 2016 00:00:00 +0800</pubDate>
-        <link>/android-map-by-magic/</link>
-        <guid isPermaLink="true">/android-map-by-magic/</guid>
+        <link>http://zerone.mobi/android-map-by-magic/</link>
+        <guid isPermaLink="true">http://zerone.mobi/android-map-by-magic/</guid>
         
         
       </item>
