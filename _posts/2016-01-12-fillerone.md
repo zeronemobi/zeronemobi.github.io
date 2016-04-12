@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About Android Map
+title: Android Map
 ---
 
 本人是今目标移动中心技术开发部的magic，这篇文章是我前段时间在组内进行技术分享的一个整理，通过这篇文章可以帮你了解我们常见的地图技术。
