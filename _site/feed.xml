@@ -5,12 +5,12 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Apr 2016 19:14:11 +0800</pubDate>
-    <lastBuildDate>Tue, 12 Apr 2016 19:14:11 +0800</lastBuildDate>
+    <pubDate>Tue, 12 Apr 2016 19:25:50 +0800</pubDate>
+    <lastBuildDate>Tue, 12 Apr 2016 19:25:50 +0800</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
-        <title>Android Map</title>
+        <title>Android Map By Magic</title>
         <description>
 &lt;h1 id=&quot;jingoal&quot;&gt;地图技术与Jingoal海外地图业务的实现探索&lt;/h1&gt;
 
@@ -186,8 +186,8 @@ https://github.com/wandergis/coordtransform
 
 </description>
         <pubDate>Fri, 22 Jan 2016 00:00:00 +0800</pubDate>
-        <link>/android-map/</link>
-        <guid isPermaLink="true">/android-map/</guid>
+        <link>/android-map-by-magic/</link>
+        <guid isPermaLink="true">/android-map-by-magic/</guid>
         
         
       </item>
