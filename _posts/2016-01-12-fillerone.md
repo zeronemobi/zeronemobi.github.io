@@ -1,6 +1,6 @@
 ---
 layout: post
-title: from magic
+title: Loren Ipsum
 ---
 
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -8,6 +8,3 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-本人是今目标移动中心技术开发部的magic，这篇文章是我前段时间在组内进行技术分享的一个整理，通过这篇文章可以帮你了解我们常见的地图技术。
-文章内容主要包括三个部分，一是我们常见的地图（百度地图、高德地图等）是如何从基本的底层地图数据展示到前端（浏览器、手机等）的。二是介绍了一整套的开源地图解决框架，并且通过框架模拟了一张魔兽世界地图jpg文件从切片到发布再到解析到浏览器上的一整套流程。第三部分则是回顾了今目标android端在解决海外地图相关业务中的一些尝试。
